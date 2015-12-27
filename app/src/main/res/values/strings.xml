@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Próximos Sobrevuelos</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_subtitle_pattern">Durante %1$d minutos y %2$d segundos</string>
+    <string name="detail4">El sobrevuelo durará %1$d minutos y %2$d segundos</string>
+    <string name="item_title_pattern">EEEE dd \'de\' MMMM \'a las\' hh:mm</string>
+    <string name="title_activity_detail">Detalle Sobrevuelo</string>
+    <string name="numbers_message">%1$d son los segundos que durará el sobrevuelo y además, %2$s</string>
+</resources>
